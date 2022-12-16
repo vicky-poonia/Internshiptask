@@ -6,8 +6,8 @@ const Navbar = () => {
     <div className="container-fluid g-0">
       <nav className="navbar navbar-expand-lg ">
         <div className="container-fluid">
-          <a href=""><i class="fas fa-square"></i></a>
-          <a className="navbar-brand text-light" href="#">
+          <a href="/#"><i class="fas fa-square"></i></a>
+          <a className="navbar-brand text-light" href="/#">
             Medical Darpan
           </a>
           <button
@@ -26,32 +26,32 @@ const Navbar = () => {
               <a
                 className="nav-link active text-light"
                 aria-current="page"
-                href="#"
+                href="/#"
               >
                 Home
               </a>
-              <a className="nav-link active text-light" href="#">
+              <a className="nav-link active text-light" href="/#">
                 Products
               </a>
-              <a className="nav-link active text-light" href="#">
+              <a className="nav-link active text-light" href="/#">
                 Distributers
               </a>
-              <a className="nav-link active text-light" href="#">
+              <a className="nav-link active text-light" href="/#">
                 Manufactures
               </a>
-              <a className="nav-link active text-light" href="#">
+              <a className="nav-link active text-light" href="/#">
                 About Us
               </a>
-              <a className="nav-link active text-light" href="#">
+              <a className="nav-link active text-light" href="/#">
                 Blog
               </a>
             </div>
           </div>
           <div class="flex-row-reverse" role="search">
-            <a href="" className="user">
+            <a href="/#" className="user">
               Login
             </a>
-            <a className="user" href="">
+            <a className="user" href="/#">
               <i class="fa fa-user-circle-o" aria-hidden="true"></i>
             </a>
           </div>

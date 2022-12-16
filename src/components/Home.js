@@ -119,9 +119,9 @@ const Home = () => {
                   <h6> Glenmark Pharmaceutical Limited </h6>
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
-                <hr/>
+                <hr />
                 <i class="fa fa-telegram" aria-hidden="true"></i>
-                <a className="contact fs-5" to="/">Contact Supplier</a>
+                <a className="contact fs-5" href="/#">Contact Supplier</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -139,8 +139,8 @@ const Home = () => {
                   <h6> Glenmark Pharmaceutical Limited </h6>
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
-                <hr/>
-                <a className="contact fs-5" to="/">Contact Supplier</a>
+                <hr />
+                <a class="contact fs-5" href="/#">Contact Supplier</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -158,8 +158,8 @@ const Home = () => {
                   <h6> Glenmark Pharmaceutical Limited </h6>
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
-                <hr/>
-                <a className="contact fs-5" to="/">Contact Supplier</a>
+                <hr />
+                <a className="contact fs-5" href="/#">Contact Supplier</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -177,8 +177,8 @@ const Home = () => {
                   <h6> Glenmark Pharmaceutical Limited </h6>
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
-                <hr/>
-                <a className="contact fs-5" to="/">Contact Supplier</a>
+                <hr />
+                <a className="contact fs-5" href="/#">Contact Supplier</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -196,8 +196,8 @@ const Home = () => {
                   <h6> Glenmark Pharmaceutical Limited </h6>
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
-                <hr/>
-                <a className="contact fs-5" to="/">Contact Supplier</a>
+                <hr />
+                <a className="contact fs-5" href="/#">Contact Supplier</a>
               </div>
             </div>
             <div className="col-md-4">
@@ -215,8 +215,8 @@ const Home = () => {
                   <h6> Glenmark Pharmaceutical Limited </h6>
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
-                <hr/>
-                <a className="contact fs-5" to="/">Contact Supplier</a>
+                <hr />
+                <a class="contact fs-5" href="/#">Contact Supplier</a>
               </div>
             </div>
             <div>
