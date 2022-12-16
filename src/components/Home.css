@@ -1,0 +1,87 @@
+.body {
+    background-color: rgb(233, 237, 248);
+}
+
+.page_path{
+    margin-left: 25px;
+}
+
+/* input  */
+
+input {
+    padding: 5px;
+    width: 500px;
+}
+
+.icon {
+    padding-left: 25px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat left;
+    background-size: 20px;
+  }
+
+.button {
+    padding: 7px 20px;
+    background-color: #099090;
+    color: #ffffff;
+    border: none;
+}
+
+.button1 {
+    background-color: #099090;
+    color: #ffffff;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.remove {
+    color: #b50c0c;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.search_text {
+    font-size: 2em;
+    margin: 10px 10px;
+}
+
+/* cards */
+.cat-sidebar {
+    padding: 0px 5px;
+    margin: 5px;
+}
+
+.cat-sidebar h5 {
+    background-color: rgb(189, 188, 188);
+    padding: 5px 45px;
+    font-size: 1em;
+}
+
+.cat-sidebar p {
+    font-size: 16px;
+    padding: 0px 20px;
+}
+
+.P__bg {
+    background-color: #ffffff;
+    /* hov */
+}
+
+.P__bg p:hover {
+    background-color: #099090;
+    cursor: pointer;
+}
+
+.contact {
+    color:  #099090;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 15px;
+  }
+
+.card_shadow {
+    box-shadow: 0 10px 1px rgba(87, 3, 3, 0.934);
+    margin-bottom: 25px;
+}

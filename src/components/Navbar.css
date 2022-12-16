@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #A23333;
+  
+}
+.navbar-nav a{
+    color:  #A23333;
+}
+
+.user{
+    font-size: 25px;
+    margin-left: 50px;
+    color: #fff;
+    text-decoration: none;
+}
