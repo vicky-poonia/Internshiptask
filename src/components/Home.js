@@ -120,8 +120,10 @@ const Home = () => {
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
                 <hr />
-                <i class="fa fa-telegram" aria-hidden="true"></i>
-                <a className="contact fs-5" href="/#">Contact Supplier</a>
+                <span className="contact">
+                  <i class="fa fa-telegram fs-5" aria-hidden="true"></i>
+                  <a className="contact1 fs-5" href="/#">Contact Supplier</a>
+                </span>
               </div>
             </div>
             <div className="col-md-4">
@@ -140,7 +142,10 @@ const Home = () => {
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
                 <hr />
-                <a class="contact fs-5" href="/#">Contact Supplier</a>
+                <span className="contact">
+                  <i class="fa fa-telegram fs-5" aria-hidden="true"></i>
+                  <a className="contact1 fs-5" href="/#">Contact Supplier</a>
+                </span>
               </div>
             </div>
             <div className="col-md-4">
@@ -159,7 +164,10 @@ const Home = () => {
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
                 <hr />
-                <a className="contact fs-5" href="/#">Contact Supplier</a>
+                <span className="contact">
+                  <i class="fa fa-telegram fs-5" aria-hidden="true"></i>
+                  <a className="contact1 fs-5" href="/#">Contact Supplier</a>
+                </span>
               </div>
             </div>
             <div className="col-md-4">
@@ -178,7 +186,10 @@ const Home = () => {
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
                 <hr />
-                <a className="contact fs-5" href="/#">Contact Supplier</a>
+                <span className="contact">
+                  <i class="fa fa-telegram fs-5" aria-hidden="true"></i>
+                  <a className="contact1 fs-5" href="/#">Contact Supplier</a>
+                </span>
               </div>
             </div>
             <div className="col-md-4">
@@ -197,7 +208,10 @@ const Home = () => {
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
                 <hr />
-                <a className="contact fs-5" href="/#">Contact Supplier</a>
+                <span className="contact">
+                  <i class="fa fa-telegram fs-5" aria-hidden="true"></i>
+                  <a className="contact1 fs-5" href="/#">Contact Supplier</a>
+                </span>
               </div>
             </div>
             <div className="col-md-4">
@@ -216,7 +230,10 @@ const Home = () => {
                   <p class="text-muted">PARVAT PATIYA, SURAT, GUJARAT</p>
                 </div>
                 <hr />
-                <a class="contact fs-5" href="/#">Contact Supplier</a>
+                <span className="contact">
+                  <i class="fa fa-telegram fs-5" aria-hidden="true"></i>
+                  <a className="contact1 fs-5" href="/#">Contact Supplier</a>
+                </span>
               </div>
             </div>
             <div>
